@@ -38,7 +38,7 @@ $ apt install python3
 First of All Clone the Project : 
 
 ```shell
-$ git clone https://git.highhost.org/limner/ITENG-HW1-1.git
+$ git clone https://git.noohi.org/amirmnoohi/client-server-mono-alphabetic-encryption
 $ cd ITENG-HW1-1
 ```
 
