@@ -16,9 +16,9 @@ Language : Python Both 2.7 - 3.7.0
 
 # **Files**
 
-- <a href="https://git.highhost.org/limner/ITENG-HW1-1/blob/master/client.py" target="_blank">`/client.py`</a> : This is Client side code
-- <a href="https://git.highhost.org/limner/ITENG-HW1-1/blob/master/server.py" target="_blank">`/server.py`</a> : This is Server side code
-- <a href="https://git.highhost.org/limner/ITENG-HW1-1/blob/master/functions.py" target="_blank">`/functions.py`</a> : This is Some necessary functions
+- <a href="https://git.noohi.org/amirmnoohi/client-server-mono-alphabetic-encryption/blob/master/client.py" target="_blank">`/client.py`</a> : This is Client side code
+- <a href="https://git.noohi.org/amirmnoohi/client-server-mono-alphabetic-encryption/blob/master/server.py" target="_blank">`/server.py`</a> : This is Server side code
+- <a href="https://git.noohi.org/amirmnoohi/client-server-mono-alphabetic-encryption/blob/master/functions.py" target="_blank">`/functions.py`</a> : This is Some necessary functions
 
 
 
@@ -39,7 +39,7 @@ First of All Clone the Project :
 
 ```shell
 $ git clone https://git.noohi.org/amirmnoohi/client-server-mono-alphabetic-encryption
-$ cd ITENG-HW1-1
+$ cd client-server-mono-alphabetic-encryptio
 ```
 
 ## Step1 : run code
